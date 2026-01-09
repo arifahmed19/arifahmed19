@@ -3,7 +3,8 @@
 **`Software Engineer `**
 
 
-- 🔭 I'm currently working on **- Strengthening core software engineering skills  
+- 🔭 I'm currently working on **
+- Strengthening core software engineering skills  
 - Building real-world projects and modern tools  
 
 - 🌱 I'm currently learning **
