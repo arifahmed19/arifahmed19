@@ -4,26 +4,26 @@
 
 
 - 🔭 I'm currently working on **- Strengthening core software engineering skills  
-- Building real-world projects and modern tools  **
+- Building real-world projects and modern tools  
 
 - 🌱 I'm currently learning **- Advanced backend architecture  
 - System design & scalable applications  
-- Clean code and performance optimization  **
+- Clean code and performance optimization  
 
 - 👯 I'm looking to collaborate on **- Meaningful software projects  
 - Backend systems, APIs, and automation tools  
-- Tech products with real business impact **
+- Tech products with real business impact 
 
 - 🤝 I'm looking for help with **- Open-source contributions  
-- Best practices for production-ready systems  **
+- Best practices for production-ready systems  
 
-- 📫 How to reach me **- GitHub: [@arifahmed19](https://github.com/arifahmed19)**
+- 📫 How to reach me **- GitHub: [@arifahmed19](https://github.com/arifahmed19)
 
-- ⚡ Fun fact **I prefer building systems over talking about them.**
+- ⚡ Fun fact **I prefer building systems over talking about them.
 
-- 👨‍💻 All of my projects are available at **[https://arifs-portfolio.super.site/](https://arifs-portfolio.super.site/)**
+- 👨‍💻 All of my projects are available at **[https://arifs-portfolio.super.site/](https://arifs-portfolio.super.site/)
 
-- 📝 I regularly write articles on **[https://dev.to/mr_extinct](https://dev.to/mr_extinct)**
+- 📝 I regularly write articles on **[https://dev.to/mr_extinct](https://dev.to/mr_extinct)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
