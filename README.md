@@ -1,29 +1,31 @@
-# 🏄‍♂️ Arif Ahmed
+# 🏇 Arif Ahmed
 
 **`Software Engineer `**
 
 
-- 🔭 I'm currently working on **
+🔭 I'm currently working on 
 - Strengthening core software engineering skills  
 - Building real-world projects and modern tools  
 
-- 🌱 I'm currently learning **
+🌱 I'm currently learning
 - Advanced backend architecture  
 - System design & scalable applications  
 - Clean code and performance optimization  
 
-- 👯 I'm looking to collaborate on **
+👯 I'm looking to collaborate on
 - Meaningful software projects  
 - Backend systems, APIs, and automation tools  
 - Tech products with real business impact 
 
-- 🤝 I'm looking for help with **
+🤝 I'm looking for help with 
 - Open-source contributions  
 - Best practices for production-ready systems  
 
-- 📫 How to reach me **- GitHub: [@arifahmed19](https://github.com/arifahmed19)
+📫 How to reach me
+- GitHub: [@arifahmed19](https://github.com/arifahmed19)
 
-- ⚡ Fun fact **I prefer building systems over talking about them.
+- ⚡ Fun fact 
+- I prefer building systems over talking about them.
 
 - 👨‍💻 All of my projects are available at **[https://arifs-portfolio.super.site/](https://arifs-portfolio.super.site/)
 
