@@ -24,12 +24,12 @@
 📫 How to reach me
 - GitHub: [@arifahmed19](https://github.com/arifahmed19)
 
-- ⚡ Fun fact 
+⚡ Fun fact 
 - I prefer building systems over talking about them.
 
-- 👨‍💻 All of my projects are available at **[https://arifs-portfolio.super.site/](https://arifs-portfolio.super.site/)
+- 👨‍💻 My Portfolio at [https://arifs-portfolio.super.site/](https://arifs-portfolio.super.site/)
 
-- 📝 I regularly write articles on **[https://dev.to/mr_extinct](https://dev.to/mr_extinct)
+- 📝 I regularly write articles on [https://dev.to/mr_extinct](https://dev.to/mr_extinct)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
