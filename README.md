@@ -6,15 +6,18 @@
 - 🔭 I'm currently working on **- Strengthening core software engineering skills  
 - Building real-world projects and modern tools  
 
-- 🌱 I'm currently learning **- Advanced backend architecture  
+- 🌱 I'm currently learning **
+- Advanced backend architecture  
 - System design & scalable applications  
 - Clean code and performance optimization  
 
-- 👯 I'm looking to collaborate on **- Meaningful software projects  
+- 👯 I'm looking to collaborate on **
+- Meaningful software projects  
 - Backend systems, APIs, and automation tools  
 - Tech products with real business impact 
 
-- 🤝 I'm looking for help with **- Open-source contributions  
+- 🤝 I'm looking for help with **
+- Open-source contributions  
 - Best practices for production-ready systems  
 
 - 📫 How to reach me **- GitHub: [@arifahmed19](https://github.com/arifahmed19)
