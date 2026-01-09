@@ -1,8 +1,7 @@
-# Hi 👋, I'm Arif 
+# 🏄‍♂️ Arif Ahmed
 
-### Software Engineer 
+**`Software Engineer `**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/arifahmed19&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/arifahmed19" /> </p>
 
 - 🔭 I'm currently working on **- Strengthening core software engineering skills  
 - Building real-world projects and modern tools  **
